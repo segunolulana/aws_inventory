@@ -1,0 +1,6 @@
+*.seg
+__pycache__
+.DS_Store
+*.ipynb
+*.csv
+*.ipynb_checkpoints
